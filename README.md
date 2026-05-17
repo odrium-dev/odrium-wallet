@@ -36,13 +36,13 @@ Visit **[odrium.com](https://odrium.com)** for more information.
 
 ### macOS (Apple Silicon)
 
-[![Download DMG](https://img.shields.io/badge/Download-DMG%20(arm64)-000000?style=for-the-badge&logo=apple&logoColor=white)](releases/Odrium_0.1.0_aarch64.dmg)
+[![Download DMG](https://img.shields.io/badge/Download-DMG%20(arm64)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v0.1.0/Odrium_0.1.0_aarch64.dmg)
 
 **File:** `Odrium_0.1.0_aarch64.dmg` (4.4 MB)
 
 ### Linux (Debian/Ubuntu)
 
-[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](releases/Odrium_0.1.0_amd64.deb)
+[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v0.1.0/Odrium_0.1.0_amd64.deb)
 
 **File:** `Odrium_0.1.0_amd64.deb` (3.6 MB)
 
