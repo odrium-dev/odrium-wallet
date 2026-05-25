@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License">
 </p>
@@ -36,19 +36,19 @@ Visit **[odrium.com](https://odrium.com)** for more information.
 
 ### macOS (Apple Silicon)
 
-[![Download DMG](https://img.shields.io/badge/Download-DMG%20(arm64)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v0.1.0/Odrium_0.1.0_aarch64.dmg)
+[![Download DMG](https://img.shields.io/badge/Download-DMG%20(arm64)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.0.0/Odrium_1.0.0_universal.dmg)
 
-**File:** `Odrium_0.1.0_aarch64.dmg` (4.4 MB)
+**File:** `Odrium_1.0.0_aarch64.dmg` (4.4 MB)
 
 ### Linux (Debian/Ubuntu)
 
-[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v0.1.0/Odrium_0.1.0_amd64.deb)
+[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.0.0/Odrium_1.0.0_amd64.deb)
 
-**File:** `Odrium_0.1.0_amd64.deb` (3.6 MB)
+**File:** `Odrium_1.0.0_amd64.deb` (3.6 MB)
 
 ```bash
 # Install on Debian/Ubuntu
-sudo dpkg -i Odrium_0.1.0_amd64.deb
+sudo dpkg -i Odrium_1.0.0_amd64.deb
 ```
 
 ---
@@ -75,8 +75,9 @@ sudo dpkg -i Odrium_0.1.0_amd64.deb
 | Zcash | ZEC | ✅ Supported |
 | Tron | TRX | ✅ Supported |
 | Litecoin | LTC | ✅ Supported |
-| Dogecoin | DOGE | ✅ Supported |
-| Ripple | XRP | ✅ Supported |
+| Arbitrum | ARB | ✅ Supported |
+| TON | TON | ✅ Supported |
+| BNB Smart Chain | BNB | ✅ Supported |
 
 *ERC-20, SPL, and TRC-20 tokens are also supported.*
 
