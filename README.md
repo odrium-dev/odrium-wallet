@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" alt="Version">
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License">
 </p>
@@ -32,23 +32,31 @@ Visit **[odrium.com](https://odrium.com)** for more information.
 
 ---
 
+## What's New in 1.1.0
+
+- **Multiple wallets** — Create or import several independent wallets and switch between them from the sidebar, each with its own encrypted vault and password.
+- **Wallet picker on unlock** — Choose which wallet to open right from the unlock screen.
+- **Native OS notifications** — Incoming deposits now raise a system notification when the window isn't focused, in addition to the in-app toast. Send a test notification from **Settings → Notifications**.
+
+---
+
 ## Download
 
 ### macOS (Apple Silicon)
 
-[![Download DMG](https://img.shields.io/badge/Download-DMG%20(arm64)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.0.0/Odrium_1.0.0_universal.dmg)
+[![Download DMG](https://img.shields.io/badge/Download-DMG%20(universal)-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.1.0/Odrium_1.1.0_universal.dmg)
 
-**File:** `Odrium_1.0.0_aarch64.dmg` (4.4 MB)
+**File:** `Odrium_1.1.0_universal.dmg` (113 MB)
 
 ### Linux (Debian/Ubuntu)
 
-[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.0.0/Odrium_1.0.0_amd64.deb)
+[![Download DEB](https://img.shields.io/badge/Download-DEB%20(amd64)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/odrium-dev/odrium-wallet/releases/download/v1.1.0/Odrium_1.1.0_amd64.deb)
 
-**File:** `Odrium_1.0.0_amd64.deb` (3.6 MB)
+**File:** `Odrium_1.1.0_amd64.deb` (57 MB)
 
 ```bash
 # Install on Debian/Ubuntu
-sudo dpkg -i Odrium_1.0.0_amd64.deb
+sudo dpkg -i Odrium_1.1.0_amd64.deb
 ```
 
 ---
@@ -57,7 +65,9 @@ sudo dpkg -i Odrium_1.0.0_amd64.deb
 
 - **True Self-Custody** — Your keys, your coins. No third-party access.
 - **Multi-Chain Support** — Manage multiple cryptocurrencies in one secure vault.
+- **Multiple Wallets** — Keep separate wallets (personal, work, cold) and switch in a click.
 - **Cold Storage Ready** — Export encrypted backups to USB for offline storage.
+- **Deposit Notifications** — Native OS alerts and in-app toasts when funds arrive.
 - **Privacy by Design** — No telemetry, no tracking, no data collection.
 - **Modern Interface** — Clean, intuitive UI built for everyday use.
 - **Cross-Platform** — Available for macOS and Linux.
